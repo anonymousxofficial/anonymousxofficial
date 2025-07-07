@@ -1,4 +1,4 @@
-# Anonymousxofficial
+# Anonymous
 
 We Are Anonymous.  
 We Are Legion.  
@@ -8,12 +8,16 @@ Expect Us.
 
 ---
 
-This repository exists to disrupt, to expose, to liberate.  
-Tools, scripts, and experiments may appear here.  
-No promises. No leaders. No masters.
+This Space Exists To Disrupt.  
+To Expose.  
+To Liberate.
 
-Use everything at your own risk.  
-Knowledge is free. Censorship is not.
+We Write Code.  
+We Share Knowledge.  
+We Erase Limits.
 
-> You cannot join Anonymous.  
-> If you see this, you are the resistance.
+There Are No Rules Here.  
+Only The Message.
+
+> You Cannot Join Anonymous.  
+> If You See This, You Are Already One Of Us.
