@@ -1,16 +1,19 @@
-## Hi there 👋
+# Anonymousxofficial
 
-<!--
-**anonymousxofficial/anonymousxofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We Are Anonymous.  
+We Are Legion.  
+We Do Not Forgive.  
+We Do Not Forget.  
+Expect Us.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository exists to disrupt, to expose, to liberate.  
+Tools, scripts, and experiments may appear here.  
+No promises. No leaders. No masters.
+
+Use everything at your own risk.  
+Knowledge is free. Censorship is not.
+
+> You cannot join Anonymous.  
+> If you see this, you are the resistance.
